@@ -1,0 +1,292 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	outline: 0px;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+
+#item-description {
+	z-index: 5000;
+	position: fixed;
+	left: 1%;
+	font-size: 116px;
+	font-family: "Russo One";
+	color: #1F51FF;
+/*	opacity: 0.6; */
+	text-shadow: 0 0 .1em #1F51FF;
+}
+
+img {
+	z-index: 5000;
+	position: absolute;
+	bottom: 3.5%;
+	left: 32.5%;
+	height: 75%;
+}
+
+#row-1 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+}
+
+#row-2 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 3%;
+}
+
+#row-3 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 6%;
+}
+
+#row-4 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 9%;
+}
+
+#row-5 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 12%;
+}
+
+#row-6 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 15%;
+}
+
+#row-7 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 18%;
+}
+
+#row-8 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 21%;
+}
+
+#row-9 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 24%;
+}
+
+#row-10 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 27%;
+}
+
+#row-11 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 30%;
+}
+
+#row-12 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 33%;
+}
+
+#row-13 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 36%;
+}
+
+#row-14 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 39%;
+}
+
+#row-15 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 42%;
+}
+
+#row-16 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 45%;
+}
+
+#row-17 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 48%;
+}
+
+#row-18 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 51%;
+}
+
+#row-19 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 54%;
+}
+
+#row-20 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 57%;
+}
+
+#row-21 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 60%;
+}
+
+#row-22 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 63%;
+}
+
+#row-23 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 66%;
+}
+
+#row-24 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 69%;
+}
+
+#row-25 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 72%;
+}
+
+#row-26 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 75%;
+}
+
+#row-27 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 78%;
+}
+
+#row-28 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 81%;
+}
+
+#row-29 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 84%;
+}
+
+#row-30 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 87%;
+}
+
+#row-31 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 90%;
+}
+
+#row-32 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 93%;
+}
+
+#row-33 {
+	z-index: 3000;
+	position: fixed;
+	font-family: "Courier New";
+	font-size: 134%;
+	top: 96%;
+}
